@@ -1,3 +1,8 @@
 # homebridge-http-tasmota-sprinkler
 
 Based on Tasmota Pulsetime function
+
+
+
+Credit
+https://github.com/goedh452/homebridge-http-sprinkler
