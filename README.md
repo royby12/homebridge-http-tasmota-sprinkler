@@ -11,7 +11,7 @@ JSON Config:
     "name": "Sprinkler backyard",
     "icon": 0,
     "timeout": 3000,
-    "statusUrl": "http://192.168.1.140",
+    "statusUrl": "http://[SONOFF_IP]",
     "useTimer": "yes"
  }
 ```
