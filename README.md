@@ -5,7 +5,7 @@ This plugin rely on Tasmota Pulsetime function to reduce the dependency of shutd
 
 JSON Config:
 
-'''
+```
  {
     "accessory": "HttpSprinkler",
     "name": "Sprinkler backyard",
@@ -14,7 +14,7 @@ JSON Config:
     "statusUrl": "http://192.168.1.140",
     "useTimer": "yes"
  }
-'''
+```
 
 
 Credit to goedh452. Based on:
