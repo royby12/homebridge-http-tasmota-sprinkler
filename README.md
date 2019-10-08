@@ -1,6 +1,7 @@
 # homebridge-http-tasmota-sprinkler
 
-This plugin rely on Tasmota Pulsetime function to reduce the dependency of shutdown by API
+This plugin create a Sprinkler/ Fuscet Object in Homekit. 
+It rely on Tasmota Pulsetime function for the Timer (to reduce the dependency of shutdown by API).
 
 
 JSON Config:
@@ -17,5 +18,5 @@ JSON Config:
 ```
 
 
-Credit to goedh452. Based on:
+Inspiered by @goedh452. Based on:
 https://github.com/goedh452/homebridge-http-sprinkler
